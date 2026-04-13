@@ -26,5 +26,4 @@ src/
  ├── service/
  │    └── FuncionarioService.java
  │
- └── app/
-      └── Principal.java
+ └──  Principal.java
